@@ -1,3 +1,3 @@
 # cyberdecklabs.net
 
-Webseite von Cyberdeck Labs (GitHub Pages).
+Website of Cyberdeck Labs (GitHub Pages).
