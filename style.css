@@ -8,3 +8,6 @@ a{color:#3cf0ff} .grid{display:grid;grid-template-columns:repeat(auto-fill,minma
 .c b{color:#fff;display:block;margin-bottom:4px} .c small{color:#9a8fa0}
 footer{margin-top:50px;color:#9a8fa0;font-size:13px;border-top:1px solid #2a1a2e;padding-top:14px}
 img{max-width:100%}
+.kofi{display:inline-block;margin-top:22px;padding:12px 22px;background:#ff2d3d;color:#07020a;font:800 15px system-ui;letter-spacing:.12em;text-decoration:none;
+clip-path:polygon(0 0,calc(100% - 12px) 0,100% 12px,100% 100%,12px 100%,0 calc(100% - 12px))}
+.kofi:hover{background:#3cf0ff}
